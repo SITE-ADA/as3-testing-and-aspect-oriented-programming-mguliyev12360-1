@@ -1,4 +1,9 @@
 package az.edu.ada.wm2.employeecrud.repository;
 
-public interface EmployeeRepository {
+import az.edu.ada.wm2.employeecrud.model.entity.Employee;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 }
