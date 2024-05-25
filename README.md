@@ -1,3 +1,9 @@
+We have 2 apps; employeecrud and demo. First, we run both of them in intellij. Then, we create colletion in postman and work there. localhost:8080/employees- we use it for CRUD operations for employeecrud and localhost:8081/secondary/employees for demo. We enter data and see that demo take data from employeecrud and connect it. All changes done in demo will directly seen in employeecrud. results are the same. Other operations are shown in video. 
+Link - https://adauniversity-my.sharepoint.com/:v:/g/personal/mguliyev12360_ada_edu_az/ETIXIyMdG-hMjoy38lRMddgBlosC3TjfMTUmOjEtC0GIow?e=7Eycwa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/zkQ7Yn-Y)
 <h1> Assignment 3 </h1>
 <h3> Testing and AOP. </h3>
