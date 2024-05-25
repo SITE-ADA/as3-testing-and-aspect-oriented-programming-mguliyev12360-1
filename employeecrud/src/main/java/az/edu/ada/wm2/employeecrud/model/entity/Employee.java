@@ -20,7 +20,7 @@ public class Employee {
     private Long id;
 
     @NotNull
-    @Size(min = 2, max = 50)
+    @Size(min = 2, max = 500)
     private String firstName;
 
     @NotNull
